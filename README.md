@@ -30,12 +30,12 @@ nodejs-demo 集成了快递查询（base）、电子面单与云打印（elec_pr
 - [实时快递查询接口](https://github.com/kuaidi100-api/nodejs-demo/blob/master/base/query.js)
 - [快递信息推送服务-订阅接口](https://github.com/kuaidi100-api/nodejs-demo/blob/master/base/poll.js)
 - [快递查询地图轨迹](https://github.com/kuaidi100-api/nodejs-demo/blob/master/base/maptrack.js)
-- [地图轨迹推送接口](https://github.com/kuaidi100-api/nodejs-demo/blob/master/base/pollMap.js)
+- [地图轨迹推送接口](https://github.com/kuaidi100-api/nodejs-demo/blob/master/base/pollmap.js)
 
 ### 电子面单与云打印(elec_print)接口
 - [电子面单下单接口](https://github.com/kuaidi100-api/nodejs-demo/blob/master/elec_print/elec_order.js)
 - [第三方平台账号授权](https://github.com/kuaidi100-api/nodejs-demo/blob/master/elec_print/authThird.js)
-- [第三方平台网点&面单余额接口](https://github.com/kuaidi100-api/nodejs-demo/blob/master/elec_print\third_info.js)
+- [第三方平台网点&面单余额接口](https://github.com/kuaidi100-api/nodejs-demo/blob/master/elec_print/third_info.js)
 - [电子面单取消接口](https://github.com/kuaidi100-api/nodejs-demo/blob/master/elec_print/elec_cancel.js)
 
 - [获取店铺授权超链接接口](https://github.com/kuaidi100-api/nodejs-demo/blob/master/elec_print/shop_authorize.js)
