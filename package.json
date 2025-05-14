@@ -1,0 +1,8 @@
+{
+    "name": "go-test-node",
+    "version": "1.0.0",
+    "main": "query.js",
+    "dependencies": {
+        "axios": "^1.9.0"
+    }
+}
