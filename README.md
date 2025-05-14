@@ -93,3 +93,5 @@ nodejs-demo 集成了快递查询（base）、电子面单与云打印（elec_pr
 - [取消预约API](https://github.com/kuaidi100-api/nodejs-demo/blob/master/international/cancel_pick_up.js)
 - [国际地址解析接口](https://github.com/kuaidi100-api/nodejs-demo/blob/master/international/international_address_resolution.js)
 
+## Tips
+如需获取账号信息（如 key、customer、secret），或免费试用100单，请访问[API开放平台](https://api.kuaidi100.com/register/diff/)进行注册
